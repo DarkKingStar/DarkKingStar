@@ -10,14 +10,12 @@
 
 ###
 
-<div align="center" height="220">
-  <p align="left">
+  <p align="center">
     ✨ Creating bugs since 2015👨‍🎓<br><br>
     📚 I'm currently learning GraphQL📉<br><br>
     🎯 Goals: earn money to enjoy my life💸<br><br>
     🎲 Fun fact: I'm still Unemployed🥲
   </p>
-</div>
 
 ###
 
