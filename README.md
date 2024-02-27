@@ -10,7 +10,7 @@
 
 ###
 
-<div align="center">
+<div align="center" height="220">
   <p align="left">
     ✨ Creating bugs since 2015👨‍🎓<br><br>
     📚 I'm currently learning GraphQL📉<br><br>
