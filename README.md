@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="center">Hi, fellow code maestro! 👨‍💻✨</h1>
 
 ###
 
-<p align="center">My name is Sounak Guha and I'm a full stack developer, from Kolkata,West Bengal, India</p>
+<p align="center">My name is Sounak Guha and I'm a Full Stack Developer, from Kolkata,West Bengal, India</p>
 
 ###
 
