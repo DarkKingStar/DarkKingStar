@@ -102,14 +102,21 @@
 
 ###
 <div align="center">
-  <a href="https://www.instagram.com/darkinstarpro?igsh=MTR1cjQ5N3cxaHZ0NA==" >
+  <a href="https://www.youtube.com/channel/UCuDWFyiFC0Wk_036ibc-mAg" target="_blank" alt='youtube'>
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
+  <a href="https://www.instagram.com/darkinstarpro?igsh=MTR1cjQ5N3cxaHZ0NA==" target="_blank" alt='instagram'>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.gg/EeXkucF6jh" target="_blank" alt='discord'>
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:darkinstarpro@gmail.com" target="_blank" alt='gmail'>
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/sounak-guha-70075a203/" target="_blank" alt='linkedin'>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
