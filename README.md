@@ -1,20 +1,20 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Sounak Guha and I'm a full stack developer, from Kolkata,West Bengal, India</p>
+<p align="center">My name is Sounak Guha and I'm a full stack developer, from Kolkata,West Bengal, India</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2015<br>📚 I'm currently learning postgreSQL<br>🎯 Goals: earn money to enjoy my life <br>🎲 Fun fact: I'm still Unemployed🥲</p>
+<p align="center">✨ Creating bugs since 2015<br>📚 I'm currently learning postgreSQL<br>🎯 Goals: earn money to enjoy my life <br>🎲 Fun fact: I'm still Unemployed🥲</p>
 
 ###
 
-<h2 align="left">I code alone😭.Period</h2>
+<h2 align="center">I code alone😭.Period</h2>
 
 ###
 
@@ -23,7 +23,7 @@
 </div>
 
 ###
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
