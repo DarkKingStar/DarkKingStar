@@ -10,11 +10,17 @@
 
 ###
 
-<p align="center">✨ Creating bugs since 2015<br>📚 I'm currently learning postgreSQL<br>🎯 Goals: earn money to enjoy my life <br>🎲 Fun fact: I'm still Unemployed🥲</p>
+<div align="center" width="320">
+<p align="left">✨ 
+Creating bugs since 2015👨‍🎓<br><br>
+📚 I'm currently learning GraphQL📉<br><br>
+🎯 Goals: earn money to enjoy my life💸<br><br>
+🎲 Fun fact: I'm still Unemployed🥲</p>
+<div>
 
 ###
 
-<h2 align="center">I code alone😭.Period</h2>
+<h3 align="center">I code alone😭.Period</h3>
 
 ###
 
