@@ -3,7 +3,7 @@
 ###
 
 <p align="center">My name is Sounak Guha</p>
-<p align="center">I'm a Full Stack Developer, from Kolkata,West Bengal, India</p>
+<p align="center">I'm a Full Stack Developer, from Kolkata, West Bengal, India</p>
 
 ###
 
