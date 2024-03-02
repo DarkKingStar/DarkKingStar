@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="center">I code alone😭.Period</h3>
+<h3 align="center">I code alone😭...</h3>
 
 ###
 
