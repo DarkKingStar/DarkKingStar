@@ -1,4 +1,4 @@
-<h1 align="center">Hi, fellow code maestro! 👨‍💻✨</h1>
+<h1 align="center">Hi, fellow coders!  👨‍💻✨</h1>
 
 ###
 
