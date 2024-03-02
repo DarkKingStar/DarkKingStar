@@ -2,8 +2,8 @@
 
 ###
 
-<h5 align="center">My name is Sounak Guha</h5>
-<h6 align="center">I'm a Full Stack Developer, from Kolkata,West Bengal, India</h6>
+<p align="center">My name is Sounak Guha</p>
+<p align="center" style="font-size: 10px;">I'm a Full Stack Developer, from Kolkata,West Bengal, India</p>
 
 ###
 
