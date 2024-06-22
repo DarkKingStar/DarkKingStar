@@ -13,14 +13,14 @@
 
   <p align="center">
     ✨ Creating bugs since 2015👨‍🎓<br><br>
-    📚 I'm currently learning GraphQL📉<br><br>
+    📚 I'm currently learning Azure📉<br><br>
     🎯 Goals: earn money to enjoy my life💸<br><br>
-    🎲 Fun fact: I'm still Unemployed🥲
+    🎲 Fun fact: Got Microsoft Domain in LTIMindtree
   </p>
 
 ###
 
-<h3 align="center">I code alone😭...</h3>
+<h3 align="center">I want to code😭...</h3>
 
 ###
 
@@ -86,9 +86,6 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 
