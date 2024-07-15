@@ -15,7 +15,7 @@
     ✨ Creating bugs since 2015👨‍🎓<br><br>
     📚 I'm currently learning Azure📉<br><br>
     🎯 Goals: earn money to enjoy my life💸<br><br>
-    🎲 Fun fact: Got Microsoft(Azure,AzureAD,Powershell scripting) Domain in LTIMindtree
+    🎲 Fun fact: Got Microsoft Domain in LTIMindtree😂
   </p>
 
 ###
