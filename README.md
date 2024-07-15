@@ -15,12 +15,12 @@
     ✨ Creating bugs since 2015👨‍🎓<br><br>
     📚 I'm currently learning Azure📉<br><br>
     🎯 Goals: earn money to enjoy my life💸<br><br>
-    🎲 Fun fact: Got Microsoft Domain in LTIMindtree
+    🎲 Fun fact: Got Microsoft(Azure,AzureAD,Powershell scripting) Domain in LTIMindtree
   </p>
 
 ###
 
-<h3 align="center">I want to code😭...</h3>
+<h3 align="center">I Love Coding❤️...</h3>
 
 ###
 
@@ -87,6 +87,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://www.pngkey.com/png/full/246-2467177_aws-logo-png-free-stock-aws-logo-png.png" height="40" alt="azure logo"  />
+  <img src="https://docs-assets.katomaran.tech/images/kato-site/tools/azure/2023/12/Group_1.png" height="40" alt="azure logo"  />
+  <img src="https://se.ewi.tudelft.nl/desosa2019/chapters/powershell/images/powershell/PowerShellLogo.png" height="40" alt="powershell logo"  />
 </div>
 
 ###
