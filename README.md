@@ -1,4 +1,4 @@
-<h1 align="center">Hi, fellow coders!  👨‍💻✨</h1>
+<h1 align="center">Hi, Fellow Coders! ✨</h1>
 
 ###
 
@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkKingStar&radius=12&theme=nord&area=true&order=5&bg_color=white&color=ffffff&title_color=ffffff&line=2dba4e&area_color=90EE90&point=ececec&hide_border=true&hide_title=false&custom_title=%F0%9F%93%88%20My%20Contribution" height="220" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DarkKingStar&radius=12&theme=nord&area=true&order=5&bg_color=white&color=ffffff&title_color=ffffff&line=2dba4e&area_color=90EE90&point=ececec&hide_border=true&hide_title=false&custom_title=%F0%9F%93%88%20My%20Contribution" height="220"   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkKingStar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true&order=2&custom_title=My%20Most%20Used%20Language%F0%9F%92%AA" height="220" alt="languages graph"  />
 </div>
 
